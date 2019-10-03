@@ -6,7 +6,6 @@ First steps with Java GUI and gamedev.
 ### Finished games so far
 - [x] Minni \"tennis" game.
 - [x] Lone Ranger - small TDS.
-- [ ] Map editor for 2D game. (Probably at the end it's going to be 2.5D (isometric).
 
 
 
